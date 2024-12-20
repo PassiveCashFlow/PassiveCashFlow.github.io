@@ -2,6 +2,9 @@
 <head>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5998590826140228"
      crossorigin="anonymous"></script>
+    <meta name="description" content="Узнайте лучшие стратегии для создания пассивного дохода: инвестиции, партнерские программы и многое другое.">
+<meta name="keywords" content="пассивный доход, заработок онлайн, инвестиции, партнерские программы">
+<meta name="author" content="Ваше Имя">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
